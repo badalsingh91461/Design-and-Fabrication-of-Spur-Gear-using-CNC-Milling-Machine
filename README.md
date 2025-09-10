@@ -1,18 +1,18 @@
-Gear Profile Design and Manufacturing
-📌 Project Overview
+
+**📌 Project Overview**
 
 This project involves the design, simulation, and manufacturing of a gear profile using CAD/CAM tools and a CNC milling machine.
 The objective was to integrate design, toolpath generation, and practical machining into a single workflow, bridging the gap between digital modeling and real-world manufacturing.
 
-🎯 Aim
+**🎯 Aim**
 
 To design a precise gear profile using CAD software.
 
 To generate toolpaths and simulate machining using CAM.
 
 To manufacture the gear on a milling machine with accuracy and efficiency.
-
-⚙️ Tools & Technologies
+**
+**⚙️ Tools & Technologies****
 
 CAD Software: (e.g., SolidWorks, AutoCAD, or Fusion 360)
 
@@ -22,7 +22,7 @@ CNC Milling Machine
 
 Cutting tools & measuring instruments
 
-🔬 Procedure
+**🔬 Procedure**
 
 Designed the gear profile in CAD software.
 
@@ -34,15 +34,15 @@ Performed machining operations to cut the gear profile.
 
 Verified dimensions and surface finish through quality checks.
 
-📊 Results
+**📊 Results**
 
 Successfully manufactured a gear profile with high dimensional accuracy.
 
 Demonstrated smooth workflow integration of CAD → CAM → CNC milling.
 
 Achieved a precise surface finish suitable for mechanical applications.
-
-✅ Conclusion
+****
+✅ Conclusion****
 
 This project highlights the importance of CAD/CAM integration in modern manufacturing and provides hands-on exposure to CNC machining of gears.
 It demonstrates how digital design can be effectively translated into a real-world manufactured component.
